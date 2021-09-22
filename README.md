@@ -7,8 +7,11 @@ A new Flutter project. It is simple shop app which lets you manage your products
 This project is a starting point for a Flutter application.
 
 Add your Key in authenticate function. (/lib/providers/auth.dart)
+
 Update url according to your project in the required functions. (/lib/providers/orders.dart)
+
 Update url according to your project in the required functions. (/lib/providers/product.dart)
+
 Update url according to your project in the required functions. (/lib/providers/products.dart)
 
 A few resources to get you started if this is your first Flutter project:
